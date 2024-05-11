@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 🤝 I’m looking for help with **Blockchain**
+- 🤝 I’m looking for help in **Blockchain**
 
 - 💬 Ask me about **ReactJs , NextJs**
 
