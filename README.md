@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Dev Harsh from Jhansi<br><br>- 🔭 I’m currently working at Volt Money as a Software Intern <br>- 📚 I'm currently learning TypeScript<br>- 📫 How to reach me: devharsh466@gmail.com<br>- ⚡ Fun fact: A Real programmers favourite line is “It works on my machine!” 😛</p>
+<p align="left">I'm Dev Harsh from Jhansi<br><br>- 🔭 I’m currently working at Amazon as a Software Developer Engineer <br>- 📚 I'm currently learning TypeScript<br>- 📫 How to reach me: devharsh466@gmail.com<br>- ⚡ Fun fact: A Real programmers favourite line is “It works on my machine!” 😛</p>
 
 ###
 
